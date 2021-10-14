@@ -826,6 +826,10 @@ h4 {
   margin: auto;
 }
 
+.background {
+  background-color: rgba(62, 56, 56, 0.2);
+}
+
 .bold-link {
   font-weight: 900;
   text-decoration: underline !important;
