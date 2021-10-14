@@ -13,6 +13,8 @@ body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  max-width: 2000px;
+  margin: auto;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -817,6 +819,7 @@ h4 {
   background-color: rgba(84, 70, 33, 0.7);
   padding: 40px 40px 40px 40px;
   width: fit-content;
+  margin: auto;
 }
 
 .bold-link {
@@ -826,10 +829,6 @@ h4 {
 
 .bgc-white {
   background-color: #ffffff;
-}
-
-.bgc-dark-slate-blue {
-  background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
